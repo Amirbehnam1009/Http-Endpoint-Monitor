@@ -5,9 +5,10 @@ A robust and secure RESTful API backend service built with **ASP.NET Core** for 
 👨‍🏫**Under the Supervision of Parham Alvani**  
 🍂***Fall 2022***
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![.NET](https://img.shields.io/badge/.NET-7.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
+[![Entity Framework Core](https://img.shields.io/badge/EF_Core-7.0-512BD4)](https://docs.microsoft.com/ef/core/)
+[![JWT](https://img.shields.io/badge/JWT-Authentication-orange)](https://jwt.io/)
+[![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite)](https://sqlite.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
